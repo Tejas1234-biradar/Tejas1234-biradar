@@ -2,13 +2,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?Tejas1234-biradar=dev-dynamo&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tejas1234-biradar&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com/?Tejas1234-biradar=dev-dynamo&theme=radical" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Tejas1234-biradar&theme=radical" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?Tejas1234-biradar=dev-dynamo&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1234-biradar&layout=compact&theme=radical" alt="Top Langs" />
 
 </div>
+
 
 👋 Hi, I'm Tejas
 I'm currently focused on learning and building projects in app development, and data structures & algorithms. I’m especially interested in creating tools and systems that can help people stay productive and organized.
