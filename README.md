@@ -19,7 +19,6 @@ I'm currently focused on learning and building projects in app development and d
 - 🛠️ Backend development, refining Node.js and Express skills  
 - 🤖 Machine Learning (future plan): specifically text analysis  
 - 🐧 Kali Linux & terminal workflows  
-- 🎮 Game development with Unreal Engine  
 
 ---
 
@@ -47,7 +46,6 @@ I'm currently focused on learning and building projects in app development and d
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
 
 <!-- Backend -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
@@ -61,9 +59,9 @@ I'm currently focused on learning and building projects in app development and d
 <!-- Tools & Others -->
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim" />
+
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+
 
 </div>
 
