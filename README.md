@@ -1,3 +1,15 @@
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?Tejas1234-biradar=dev-dynamo&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com/?Tejas1234-biradar=dev-dynamo&theme=radical" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?Tejas1234-biradar=dev-dynamo&layout=compact&theme=radical" alt="Top Langs" />
+
+</div>
+
 👋 Hi, I'm Tejas
 I'm currently focused on learning and building projects in app development, and data structures & algorithms. I’m especially interested in creating tools and systems that can help people stay productive and organized.
 
@@ -11,12 +23,36 @@ Backend development, refining my Node.js and Express skills
 Machine Learning, specifically for text analysis (future plan)
 Kali Linux & terminal workflows
 Game development with Unreal Engine
-🛠️ Tech Stack
-Languages: JavaScript, C++, Python
-Frontend: React, React Native, TailwindCSS
-Backend: Node.js, Express, MongoDB
-Tools: Neovim, Git, Powershell, Kali Linux
-Other: Arduino, experimenting with ML
+## 🛠️ My Tech Stack
+
+<div align="center">
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+
+<!-- Tools & Others -->
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+
+</div>
+
 📌 Current Goals
 Build meaningful and useful apps
 Strengthen problem-solving skills through consistent DSA practice
