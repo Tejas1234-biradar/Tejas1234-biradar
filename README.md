@@ -23,16 +23,25 @@ I'm currently focused on learning and building projects in app development and d
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tejas1234-biradar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejas1234-biradar&show_icons=true&theme=radical" 
+       alt="GitHub Stats" 
+       width="400" />
 
-<img src="https://streak-stats.demolab.com/?user=Tejas1234-biradar&theme=radical" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=Tejas1234-biradar&theme=radical" 
+       alt="GitHub Streak" 
+       width="400" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1234-biradar&layout=compact&theme=radical" alt="Top Langs" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1234-biradar&layout=compact&theme=radical" 
+       alt="Top Languages" 
+       width="400" />
 
 </div>
+
 
 ---
 
