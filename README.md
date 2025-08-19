@@ -1,88 +1,131 @@
-<h1 align="center">Hi 👋, I'm Tejas</h1>
+# Hi there! 👋 I'm Tejas
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+</div>
 
 <p align="center">
-I'm currently focused on learning and building projects in app development and data structures & algorithms. I’m especially interested in creating tools and systems that can help people stay productive and organized.
+  <em>Passionate about building meaningful applications and solving complex problems through code</em>
+</p>
+
+<p align="center">
+  I'm currently focused on learning and building projects in <strong>app development</strong> and <strong>data structures & algorithms</strong>. I'm especially interested in creating tools and systems that help people stay productive and organized.
 </p>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Currently Working On
 
-- ⚡ A **React/Node.js productivity app** with a simple and clean interface  
-- ⚡ DSA in **C++**, aiming to improve problem-solving skills  
+<table>
+<tr>
+<td width="50%">
 
----
+### 💻 Development Projects
+- ⚡ **React/Node.js Productivity App** - Building a clean, intuitive interface for task management
+- 📱 **React Native Mobile Apps** - Expanding into cross-platform development
+- 🛠️ **Backend Systems** - Strengthening Node.js and Express expertise
 
-## 🌱 What I'm Learning
+</td>
+<td width="50%">
 
-- 📱 React Native for mobile apps  
-- 🛠️ Backend development, refining Node.js and Express skills  
-- 🤖 Machine Learning (future plan): specifically text analysis  
-- 🐧 Kali Linux & terminal workflows  
+### 🧠 Learning & Growth
+- 🔍 **DSA in C++** - Daily problem-solving to sharpen algorithmic thinking
+- 🤖 **Machine Learning** - Planning to dive into text analysis
+- 🐧 **Kali Linux** - Mastering terminal workflows and security tools
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas1234-biradar&show_icons=true&theme=radical" 
-       alt="GitHub Stats" 
-       width="400" />
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=Tejas1234-biradar&theme=radical" 
-       alt="GitHub Streak" 
-       width="400" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1234-biradar&layout=compact&theme=radical" 
-       alt="Top Languages" 
-       width="400" />
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Tejas1234-biradar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- Tools & Others -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Current Goals
+## 📊 GitHub Analytics
 
-- 🔨 Build meaningful and useful apps  
-- 🧠 Strengthen problem-solving skills through consistent DSA practice  
-- 🌱 Explore new areas like ML and AR games  
-- ⚡ Improve focus and productivity (always a work in progress)  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejas1234-biradar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1234-biradar&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas1234-biradar&theme=radical&hide_border=false" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tejas1234-biradar&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</div>
 
 ---
 
+## 🎯 Current Goals & Focus Areas
+
+<div align="center">
+
+| 🏗️ **Building** | 🧠 **Learning** | 🌱 **Exploring** |
+|:---:|:---:|:---:|
+| Meaningful apps that solve real problems | Advanced DSA patterns and algorithms | Machine Learning applications |
+| Clean, user-friendly interfaces | System design principles | AR/VR game development |
+| Scalable backend architectures | Performance optimization | Cloud technologies |
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas1234-biradar&theme=radical" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tejas1234-biradar&color=red&style=for-the-badge" />
+</div>
+
+---
+
+<div align="center">
+  <h3>💭 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <p><em>Always striving to write clean, self-explanatory code!</em></p>
+</div>
