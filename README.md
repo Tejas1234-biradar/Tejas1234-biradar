@@ -39,6 +39,7 @@ I'm currently focused on learning and building projects in app development and d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1234-biradar&layout=compact&theme=radical" 
        alt="Top Languages" 
        width="400" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Tejas1234-biradar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
