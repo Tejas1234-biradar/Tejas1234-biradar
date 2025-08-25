@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Tejas
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
-</div>
+
 
 <p align="center">
   <em>Passionate about building meaningful applications and solving complex problems through code</em>
@@ -126,6 +124,6 @@
 ---
 
 <div align="center">
-  <h3>💭 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <h3>🗨️"All things are difficult before they are easy...To me that is more so of the case"</h3>
   <p><em>Always striving to write clean, self-explanatory code!</em></p>
 </div>
